@@ -1,0 +1,12 @@
+[
+    {
+        "anvandarnamn": "kalle",
+        "losenord": "hemligt",
+        "user_id": "1234"
+    },
+    {
+        "anvandarnamn": "lisa",
+        "losenord": "superhemligt",
+        "user_id": "5678"
+    }
+]
